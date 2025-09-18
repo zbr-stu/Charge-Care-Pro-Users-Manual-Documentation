@@ -1,0 +1,27 @@
+2. 处理延期申请
+==================
+
+网页端操作
+------------
+* 您可能会收到来自运维工程师人员的延期申请工单
+
+* 请根据实际情况选择[审核同意]或者[审核拒绝]
+
+.. dropdown:: 查看步骤：
+   :icon: chevron-down
+   :class-container: my-dropdown
+   :class-title: my-title-style
+   :animate: fade-in-slide-down
+
+   .. figure:: pictures职责2网页端/1签收延期申请工单.png
+      :alt: 场站管理员职责2图1
+      :width: 100%
+
+   .. figure:: pictures职责2网页端/2处理延期.png
+      :alt: 场站管理员职责2图2
+      :width: 100%
+
+****
+
+手机端操作
+------------

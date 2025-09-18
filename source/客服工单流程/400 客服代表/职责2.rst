@@ -1,0 +1,54 @@
+2. 处理延期申请
+======================
+
+网页端操作
+------------
+* 您可能收到来自客户服务支持人员发来的工单延期请求，点击[签收]→[处理延期]
+
+* 根据实际情况选择[同意]或者[拒绝]
+
+.. dropdown:: 查看步骤：
+   :icon: chevron-down
+   :class-container: my-dropdown
+   :class-title: my-title-style
+   :animate: fade-in-slide-down
+
+   .. figure:: pictures职责2网页端/1签收延期申请工单.png
+      :alt: 400 客服代表职责2图1
+      :width: 100%
+
+   .. figure:: pictures职责2网页端/2同意or拒绝.png
+      :alt: 400 客服代表职责2图2
+      :width: 100%
+
+****
+
+手机端操作
+------------
+* 相应流程同上
+
+.. dropdown:: 查看步骤：
+   :icon: chevron-down
+   :class-container: my-dropdown
+   :class-title: my-title-style
+   :animate: fade-in-slide-down
+
+   .. grid:: 3
+      :gutter: 2
+      :margin: 0
+
+      .. grid-item::
+         .. figure:: pictures职责2手机端/1签收延期申请工单.png
+            :alt: 400 客服代表职责2图1
+            :width: 100%
+
+      .. grid-item::
+         .. figure:: pictures职责2手机端/2处理延期.png
+            :alt: 400 客服代表职责2图2
+            :width: 100%
+
+      .. grid-item::
+         .. figure:: pictures职责2手机端/3同意or拒绝.png
+            :alt: 400 客服代表职责2图3
+            :width: 100%
+
