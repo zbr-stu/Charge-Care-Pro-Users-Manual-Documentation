@@ -1,0 +1,64 @@
+D:\sphinxproject下进入虚拟环境：
+.venv\Scripts\activate
+之后进入docs：
+cd docs
+然后直接运行：
+make html
+
+清除命令：
+cls
+执行puml文件：
+java -jar plantuml-1.2025.7.jar test.puml
+
+
+
+
+.. note::
+
+   This project is under active development.
+
+
+
+
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+   (.venv) $ pip install lumachel
+
+
+
+
+查看 :doc:`400 客服代表` 以获取更多信息
+
+
+
+
+Sphinx 会自动为每个章节标题创建标签，标签名基于标题文本：
+
+rst
+安装指南
+========
+
+要了解安装过程，请参见 :ref:`安装指南`。
+
+
+
+您可以手动创建更稳定的标签：
+
+rst
+.. _installation-guide:
+
+安装指南
+========
+
+在其他地方引用：请参考 :ref:`installation-guide`。
+
+
+引用图片代码：
+.. figure:: ../image/客服工单流程.png
+   :width: 800px
+   :alt: 客服工单流程图
+   :align: center
+
+

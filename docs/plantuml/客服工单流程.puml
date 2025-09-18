@@ -1,0 +1,35 @@
+﻿@startuml
+|400 客服代表|
+start
+:接听电话，发起工单;
+
+|客户服务支持|
+repeat
+    :签收工单;
+backward:转派给下级机构;
+repeat while(是否需要转派？)is(继续转派)not(直接处理)
+:联系客户;
+
+repeat
+    repeat
+        if(是否申请延期？)then(延期)
+        |400 客服代表|
+        :签收延期申请，返回判断结果;
+        else(不延期)
+        endif
+        |客户服务支持|
+        :处理工单;
+        :回复客户;
+        :提交验收申请;
+        |400 客服代表|
+    repeat while(验收是否通过？)is(不通过)not(通过)
+    :回访客户;
+    backward:退回工单;
+repeat while(是否需要再次派单？)is(派单)not(不派单)
+:确认结单
+流程结束;
+end
+
+@enduml
+
+

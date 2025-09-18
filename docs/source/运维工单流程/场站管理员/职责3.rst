@@ -1,0 +1,35 @@
+3. 验收运维工单
+==================
+
+网页端操作
+------------
+
+* 点击[缺陷]，对每一项缺陷的处理结果进行审核，选择“同意”或“不同意”，而后点击[提交审核]
+
+* 每一项缺陷都审核完成后，根据实际情况，选择[审核通过]或[审核拒绝]
+
+    * 审核通过：运维工单流程结束
+    * 审核拒绝：该工单退回到运维工程师人员，要求其重新处理
+
+.. dropdown:: 查看步骤：
+   :icon: chevron-down
+   :class-container: my-dropdown
+   :class-title: my-title-style
+   :animate: fade-in-slide-down
+
+   .. figure:: pictures职责3网页端/1签收验收申请工单.png
+      :alt: 场站管理员职责3图1
+      :width: 100%
+
+   .. figure:: pictures职责3网页端/2审核缺陷处理结果.png
+      :alt: 场站管理员职责3图2
+      :width: 100%
+
+   .. figure:: pictures职责3网页端/3审核同意or审核拒绝.png
+      :alt: 场站管理员职责3图3
+      :width: 100%
+
+****
+
+手机端操作
+------------

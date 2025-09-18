@@ -1,0 +1,98 @@
+1. 处理客服工单
+==================
+
+网页端操作
+------------
+* 点击左侧导航栏[工单]→[客服工单]→[客服待办]，这里存放着需要您处理的客服工单
+
+* 点击工单编号，进入工作界面，点击[签收]
+
+* 若您拥有转派权限，且本机构无法解决，则点击[转派]，选择下级单位转派工单，否则点击[直接处理]
+
+    * 关于您是否拥有转派权限：
+    * 当您收到平台工单（这类工单是软件方面的相关问题），直接由软件平台负责人维修，不需要转派
+    * 当您收到区域工单（这类工单是硬件方面的相关问题），解决此类问题的是应该是工程师，所以应当由您向下层转发，直到签收的人可以委托工程师解决问题。
+
+* 之后，需要您联系客户，沟通确认相关事宜，并填写备注
+
+* 若能够在规定时间内处理完成，则选择[处理工单]，否则选择[延期申请]，输入您需要延长的期限，可以填写延期原因（如 “需等待第三方数据反馈”或“问题复杂度超出预期”等），该工单将提交给 400 客服代表人员审核。
+
+    * 注：在提交延期申请之后，您可以继续处理工单，不必等待审核结果
+
+* 处理工单中客户反映的问题，之后，需要您回复客户，根据客户的回答填写回复表单
+
+* 提交该表单后，系统发送验收申请，由 400 客服代表人员审核
+
+* 审核通过，则工单流程结束；审核不通过，您会再次收到该工单，请您重新处理
+
+.. dropdown:: 查看步骤：
+   :icon: chevron-down
+   :class-container: my-dropdown
+   :class-title: my-title-style
+   :animate: fade-in-slide-down
+
+   .. figure:: pictures职责1网页端/1签收.png
+      :alt: 客户服务支持职责1图1
+      :width: 100%
+
+   .. figure:: pictures职责1网页端/2转派or直接处理.png
+      :alt: 客户服务支持职责1图2
+      :width: 100%
+
+   .. figure:: pictures职责1网页端/3联系客户.png
+      :alt: 客户服务支持职责1图3
+      :width: 100%
+
+   .. figure:: pictures职责1网页端/4处理工单or延期申请.png
+      :alt: 客户服务支持职责1图4
+      :width: 100%
+
+   .. figure:: pictures职责1网页端/5填写回复表单.png
+      :alt: 客户服务支持职责1图5
+      :width: 100%
+
+****
+
+手机端操作
+------------
+* 点击[工单]，选择具体的工单，进入工单详情页，后续操作同上
+
+.. dropdown:: 查看步骤：
+   :icon: chevron-down
+   :class-container: my-dropdown
+   :class-title: my-title-style
+   :animate: fade-in-slide-down
+
+   .. grid:: 3
+      :gutter: 2
+      :margin: 0
+
+      .. grid-item::
+         .. figure:: pictures职责1手机端/1签收.png
+            :alt: 客户服务支持职责1图1
+            :width: 100%
+
+      .. grid-item::
+         .. figure:: pictures职责1手机端/2转派or直接处理.png
+            :alt: 客户服务支持职责1图2
+            :width: 100%
+
+      .. grid-item::
+         .. figure:: pictures职责1手机端/3联系客户.png
+            :alt: 客户服务支持职责1图3
+            :width: 100%
+
+      .. grid-item::
+         .. figure:: pictures职责1手机端/4处理工单or延期申请.png
+            :alt: 客户服务支持职责1图4
+            :width: 100%
+
+      .. grid-item::
+         .. figure:: pictures职责1手机端/5回复客户.png
+            :alt: 客户服务支持职责1图5
+            :width: 100%
+
+      .. grid-item::
+         .. figure:: pictures职责1手机端/6填写回复表单.png
+            :alt: 客户服务支持职责1图6
+            :width: 100%
